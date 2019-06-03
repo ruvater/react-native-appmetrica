@@ -226,10 +226,10 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(PROJECT_DIR)/../../../../ios",
 					"$(PROJECT_DIR)/../../../../ios/Frameworks",
-					"$(PROJECT_DIR)/../../../../ios/Pods/**",
+					"$(PROJECT_DIR)/../../../../ios/Pods/YandexMobileMetrica/**",
 				);
 				HEADER_SEARCH_PATHS = (
-					"$(PROJECT_DIR)/../../../../ios/Pods/**",
+					"$(PROJECT_DIR)/../../../../ios/Pods/YandexMobileMetrica/**",
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -243,10 +243,10 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(PROJECT_DIR)/../../../../ios",
 					"$(PROJECT_DIR)/../../../../ios/Frameworks",
-					"$(PROJECT_DIR)/../../../../ios/Pods/**",
+					"$(PROJECT_DIR)/../../../../ios/Pods/YandexMobileMetrica/**",
 				);
 				HEADER_SEARCH_PATHS = (
-					"$(PROJECT_DIR)/../../../../ios/Pods/**",
+					"$(PROJECT_DIR)/../../../../ios/Pods/YandexMobileMetrica/**",
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
